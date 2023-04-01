@@ -18,9 +18,8 @@
 * IRemote Library: -> https://www.arduino.cc/reference/en/libraries/irremote/
 * Arduino compatible board (in this case Arduino UNO R3 is used) -> doc: https://docs.arduino.cc/hardware/uno-rev3
 * 3 LEDs of 3 different colors (in this case green, yellow and read LEDs)
-* 3 220R resistors (used for the 3 LEDs)
 * 1 seven-segment LED display -> guide: https://www.circuitbasics.com/arduino-7-segment-display-tutorial/
-* 1 1k resistor (used for the seven-segment LED display)
+* 4 1k resistor (used for the seven-segment LED display and for the LEDs)
 * 1 ultrasonic sensor -> guide: https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/
 * 1 infrared sensor -> guide: https://www.circuitbasics.com/arduino-ir-remote-receiver-tutorial/
 * 22 jumper wires
